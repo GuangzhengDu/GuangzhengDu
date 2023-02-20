@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GuangzhengDu, You could just call me Kevin
 - 👀 I’m interested in Heavy ion collision.
-- 🌱 I’m currently learning Condensed matter physics II.
-- 💞️ I’m looking for a PhD in Quantum field.
+- 🌱 I’m currently learning Quantum field theory II.
+- 💞️ I’m looking for a PhD/job in Physics.
 - 📫 How to reach me: gd2610@columbia.edu.
 
 <!---
